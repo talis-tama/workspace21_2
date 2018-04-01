@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">時間割</string>
+  <string name="textView1">現在時刻</string>
+  <string name="textView2">読</string>
+  <string name="textView3">次の予定</string>
+  <string name="textView4">授業名</string>
+  <string name="textView5">時間</string>
+  <string name="textView6">読み込み中</string>
+  <string name="textView8">講師名</string>
+  <string name="textView9">教室</string>
+  <string name="textView12">本日の予定</string>
+  <string name="textView14">1限(9:20～10:50)</string>
+  <string name="textView17">2限(11:00～12:30)</string>
+  <string name="textView20">3限(13:20～14:50)</string>
+  <string name="textView23">4限(15:00～16:30)</string>
+  <string name="textView26">5限(16:40～18:10)</string>
+  <string name="button1">◀</string>
+  <string name="button2">▶</string>
+</resources>
